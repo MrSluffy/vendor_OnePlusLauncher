@@ -6,4 +6,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     OnePlusRecentsProvider \
-    OPLauncher 
+    OPLauncher \
+    OPIconpackOxygen \
+    OPIconpackRound

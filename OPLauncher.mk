@@ -8,4 +8,5 @@ PRODUCT_PACKAGES += \
     OnePlusRecentsProvider \
     OPLauncher \
     OPIconpackOxygen \
-    OPIconpackRound
+    OPIconpackRound \
+    OPWidget

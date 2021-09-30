@@ -7,6 +7,7 @@ It allows additional grants on top of privapp-permissions-platform.xml
 <permissions>
     <privapp-permissions package="net.oneplus.launcher">
         <permission name="android.permission.BIND_APPWIDGET"/>
+        <permission name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"/>
         <permission name="android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"/>
         <permission name="android.permission.DEVICE_POWER"/>
         <permission name="android.permission.FORCE_STOP_PACKAGES"/>

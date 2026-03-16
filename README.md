@@ -1,4 +1,4 @@
-# OPLauncher Port for Android 11/10 Roms 
+# Updated OPLauncher Port for Android 11/10 Roms as of 09-30-21
 
 <img src="https://github.com/MrSluffy/vendor_OnePlusLauncher/blob/customized-version/photo_2021-01-29_00-14-45.jpg?raw=true">
 
